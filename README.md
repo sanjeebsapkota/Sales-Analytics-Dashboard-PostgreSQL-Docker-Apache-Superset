@@ -74,7 +74,7 @@ This dashboard enables:
 - Regional performance comparison
 - Customer segmentation analysis
 - Pr![sales-dashboard-2026-03-02T08-09-52 904Z](https://github.com/user-attachments/assets/58b35870-425a-4c7a-884d-5a242c3ce056)
-oduct performance evaluation
+product performance evaluation
 
 ---
 
